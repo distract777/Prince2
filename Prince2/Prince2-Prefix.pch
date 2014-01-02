@@ -1,0 +1,58 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+   #import <UIKit/UIKit.h>
+   #import <Foundation/Foundation.h>
+
+
+// formal server
+#define DTC_URL                    @"http://app.prince.com.tw:5168/XSyncServer/XSyncService.svc"
+#define DTC_AUTHORITY              @"prince8206"
+#define URL_PREFIX                 @"http://app.prince.com.tw/prince"
+
+#define TEXT_COLOR                 [UIColor blackColor]
+#define SECOND_LINE_TEXT_COLOR     [UIColor darkGrayColor]
+#define HIGHLIGHT_TEXT_COLOR       [UIColor yellowColor]
+#define SHADOW_TEXT_COLOR          [UIColor blackColor]
+#define EDIT_TITLE_COLOR           [UIColor colorWithRed: 0.019  green: 0.239  blue: 0.47   alpha: 1]
+#define EDIT_BACKGROUND_COLOR      [UIColor colorWithRed: 0.807  green: 0.847  blue: 0.894  alpha: 1]
+#define LIGHT_BLUE_COLOR		   [UIColor colorWithRed: 0.274  green: 0.639  blue: 1      alpha: 1]
+#define DARK_RED_COLOR             [UIColor colorWithRed: 0.278  green: 0      blue: 0      alpha: 1]
+#define ORANGE_COLOR               [UIColor colorWithRed: 1      green: 0.533  blue: 0      alpha: 1]
+
+#define SHADOW_SIZE			       CGSizeMake(1, 1)
+#define TITLE_FONT				   [UIFont boldSystemFontOfSize: 18]
+#define LARGE_TITLE_FONT		   [UIFont boldSystemFontOfSize: 20]
+#define DETAIL_FONT				   [UIFont systemFontOfSize: 17]
+#define SECOND_LINE_FONT		   [UIFont systemFontOfSize: 16]
+#define EDIT_TITLE_FONT            [UIFont boldSystemFontOfSize: 16]
+#define BUTTON_FONT				   [UIFont boldSystemFontOfSize: 15]
+
+#define ROTATION_ENABLE            YES
+#define TABLE_ROW_HEIGHT           60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#endif

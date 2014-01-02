@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+		<key>State</key>
+		<string>台北市</string>
+		<key>Cities</key>
+		<array>
+		<dict><key>city</key><string>松山區</string></dict>
+<dict><key>city</key><string>信義區</string></dict>
+<dict><key>city</key><string>大安區</string></dict>
+<dict><key>city</key><string>中山區</string></dict>
+<dict><key>city</key><string>中正區</string></dict>
+<dict><key>city</key><string>大同區</string></dict>
+<dict><key>city</key><string>萬華區</string></dict>
+<dict><key>city</key><string>文山區</string></dict>
+<dict><key>city</key><string>南港區</string></dict>
+<dict><key>city</key><string>內湖區</string></dict>
+<dict><key>city</key><string>士林區</string></dict>
+<dict><key>city</key><string>北投區</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>新北市</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>板橋區</string></dict>
+<dict><key>city</key><string>三重區</string></dict>
+<dict><key>city</key><string>中和區</string></dict>
+<dict><key>city</key><string>永和區</string></dict>
+<dict><key>city</key><string>新莊區</string></dict>
+<dict><key>city</key><string>新店區</string></dict>
+<dict><key>city</key><string>樹林區</string></dict>
+<dict><key>city</key><string>鶯歌區</string></dict>
+<dict><key>city</key><string>三峽區</string></dict>
+<dict><key>city</key><string>淡水區</string></dict>
+<dict><key>city</key><string>汐止區</string></dict>
+<dict><key>city</key><string>瑞芳區</string></dict>
+<dict><key>city</key><string>土城區</string></dict>
+<dict><key>city</key><string>蘆洲區</string></dict>
+<dict><key>city</key><string>五股區</string></dict>
+<dict><key>city</key><string>泰山區</string></dict>
+<dict><key>city</key><string>林口區</string></dict>
+<dict><key>city</key><string>深坑區</string></dict>
+<dict><key>city</key><string>石碇區</string></dict>
+<dict><key>city</key><string>坪林區</string></dict>
+<dict><key>city</key><string>三芝區</string></dict>
+<dict><key>city</key><string>石門區</string></dict>
+<dict><key>city</key><string>八里區</string></dict>
+<dict><key>city</key><string>平溪區</string></dict>
+<dict><key>city</key><string>雙溪區</string></dict>
+<dict><key>city</key><string>貢寮區</string></dict>
+<dict><key>city</key><string>金山區</string></dict>
+<dict><key>city</key><string>萬里區</string></dict>
+<dict><key>city</key><string>烏來區</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>桃園縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>桃園市</string></dict>
+<dict><key>city</key><string>中壢市</string></dict>
+<dict><key>city</key><string>平鎮市</string></dict>
+<dict><key>city</key><string>八德市</string></dict>
+<dict><key>city</key><string>楊梅市</string></dict>
+<dict><key>city</key><string>大溪鎮</string></dict>
+<dict><key>city</key><string>蘆竹鄉</string></dict>
+<dict><key>city</key><string>大園鄉</string></dict>
+<dict><key>city</key><string>龜山鄉</string></dict>
+<dict><key>city</key><string>龍潭鄉</string></dict>
+<dict><key>city</key><string>新屋鄉</string></dict>
+<dict><key>city</key><string>觀音鄉</string></dict>
+<dict><key>city</key><string>復興鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>新竹市 </string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>東區</string></dict>
+<dict><key>city</key><string>北區</string></dict>
+<dict><key>city</key><string>香山區</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>新竹縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>竹北市</string></dict>
+<dict><key>city</key><string>關西鎮</string></dict>
+<dict><key>city</key><string>新埔鎮</string></dict>
+<dict><key>city</key><string>竹東鎮</string></dict>
+<dict><key>city</key><string>湖口鄉</string></dict>
+<dict><key>city</key><string>橫山鄉</string></dict>
+<dict><key>city</key><string>新豐鄉</string></dict>
+<dict><key>city</key><string>芎林鄉</string></dict>
+<dict><key>city</key><string>寶山鄉</string></dict>
+<dict><key>city</key><string>北埔鄉</string></dict>
+<dict><key>city</key><string>峨眉鄉</string></dict>
+<dict><key>city</key><string>尖石鄉</string></dict>
+<dict><key>city</key><string>五峰鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>苗栗縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>苗栗市</string></dict>
+<dict><key>city</key><string>苑裡鎮</string></dict>
+<dict><key>city</key><string>通霄鎮</string></dict>
+<dict><key>city</key><string>竹南鎮</string></dict>
+<dict><key>city</key><string>頭份鎮</string></dict>
+<dict><key>city</key><string>後龍鎮</string></dict>
+<dict><key>city</key><string>卓蘭鎮</string></dict>
+<dict><key>city</key><string>大湖鄉</string></dict>
+<dict><key>city</key><string>公館鄉</string></dict>
+<dict><key>city</key><string>銅鑼鄉</string></dict>
+<dict><key>city</key><string>南庄鄉</string></dict>
+<dict><key>city</key><string>頭屋鄉</string></dict>
+<dict><key>city</key><string>三義鄉</string></dict>
+<dict><key>city</key><string>西湖鄉</string></dict>
+<dict><key>city</key><string>造橋鄉</string></dict>
+<dict><key>city</key><string>三灣鄉</string></dict>
+<dict><key>city</key><string>獅潭鄉</string></dict>
+<dict><key>city</key><string>泰安鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>臺中市</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>中區</string></dict>
+<dict><key>city</key><string>東區</string></dict>
+<dict><key>city</key><string>南區</string></dict>
+<dict><key>city</key><string>西區</string></dict>
+<dict><key>city</key><string>北區</string></dict>
+<dict><key>city</key><string>西屯區</string></dict>
+<dict><key>city</key><string>南屯區</string></dict>
+<dict><key>city</key><string>北屯區</string></dict>
+<dict><key>city</key><string>豐原區</string></dict>
+<dict><key>city</key><string>東勢區</string></dict>
+<dict><key>city</key><string>大甲區</string></dict>
+<dict><key>city</key><string>清水區</string></dict>
+<dict><key>city</key><string>沙鹿區</string></dict>
+<dict><key>city</key><string>梧棲區</string></dict>
+<dict><key>city</key><string>后里區</string></dict>
+<dict><key>city</key><string>神岡區</string></dict>
+<dict><key>city</key><string>潭子區</string></dict>
+<dict><key>city</key><string>大雅區</string></dict>
+<dict><key>city</key><string>新社區</string></dict>
+<dict><key>city</key><string>石岡區</string></dict>
+<dict><key>city</key><string>外埔區</string></dict>
+<dict><key>city</key><string>大安區</string></dict>
+<dict><key>city</key><string>烏日區</string></dict>
+<dict><key>city</key><string>大肚區</string></dict>
+<dict><key>city</key><string>龍井區</string></dict>
+<dict><key>city</key><string>霧峰區</string></dict>
+<dict><key>city</key><string>太平區</string></dict>
+<dict><key>city</key><string>大里區</string></dict>
+<dict><key>city</key><string>和平區</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>彰化縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>彰化市</string></dict>
+<dict><key>city</key><string>鹿港鎮</string></dict>
+<dict><key>city</key><string>和美鎮</string></dict>
+<dict><key>city</key><string>北斗鎮</string></dict>
+<dict><key>city</key><string>員林鎮</string></dict>
+<dict><key>city</key><string>溪湖鎮</string></dict>
+<dict><key>city</key><string>田中鎮</string></dict>
+<dict><key>city</key><string>二林鎮</string></dict>
+<dict><key>city</key><string>線西鄉</string></dict>
+<dict><key>city</key><string>伸港鄉</string></dict>
+<dict><key>city</key><string>福興鄉</string></dict>
+<dict><key>city</key><string>秀水鄉</string></dict>
+<dict><key>city</key><string>花壇鄉</string></dict>
+<dict><key>city</key><string>芬園鄉</string></dict>
+<dict><key>city</key><string>大村鄉</string></dict>
+<dict><key>city</key><string>埔鹽鄉</string></dict>
+<dict><key>city</key><string>埔心鄉</string></dict>
+<dict><key>city</key><string>永靖鄉</string></dict>
+<dict><key>city</key><string>社頭鄉</string></dict>
+<dict><key>city</key><string>二水鄉</string></dict>
+<dict><key>city</key><string>田尾鄉</string></dict>
+<dict><key>city</key><string>埤頭鄉</string></dict>
+<dict><key>city</key><string>芳苑鄉</string></dict>
+<dict><key>city</key><string>大城鄉</string></dict>
+<dict><key>city</key><string>竹塘鄉</string></dict>
+<dict><key>city</key><string>溪州鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>南投縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>南投市</string></dict>
+<dict><key>city</key><string>埔里鎮</string></dict>
+<dict><key>city</key><string>草屯鎮</string></dict>
+<dict><key>city</key><string>竹山鎮</string></dict>
+<dict><key>city</key><string>集集鎮</string></dict>
+<dict><key>city</key><string>名間鄉</string></dict>
+<dict><key>city</key><string>鹿谷鄉</string></dict>
+<dict><key>city</key><string>中寮鄉</string></dict>
+<dict><key>city</key><string>魚池鄉</string></dict>
+<dict><key>city</key><string>國姓鄉</string></dict>
+<dict><key>city</key><string>水里鄉</string></dict>
+<dict><key>city</key><string>信義鄉</string></dict>
+<dict><key>city</key><string>仁愛鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>雲林縣</string>
+		<key>Cities</key>
+		<array>
+		<dict><key>city</key><string>斗六市</string></dict>
+<dict><key>city</key><string>斗南鎮</string></dict>
+<dict><key>city</key><string>虎尾鎮</string></dict>
+<dict><key>city</key><string>西螺鎮</string></dict>
+<dict><key>city</key><string>土庫鎮</string></dict>
+<dict><key>city</key><string>北港鎮</string></dict>
+<dict><key>city</key><string>古坑鄉</string></dict>
+<dict><key>city</key><string>大埤鄉</string></dict>
+<dict><key>city</key><string>莿桐鄉</string></dict>
+<dict><key>city</key><string>林內鄉</string></dict>
+<dict><key>city</key><string>二崙鄉</string></dict>
+<dict><key>city</key><string>崙背鄉</string></dict>
+<dict><key>city</key><string>麥寮鄉</string></dict>
+<dict><key>city</key><string>東勢鄉</string></dict>
+<dict><key>city</key><string>褒忠鄉</string></dict>
+<dict><key>city</key><string>臺西鄉</string></dict>
+<dict><key>city</key><string>元長鄉</string></dict>
+<dict><key>city</key><string>四湖鄉</string></dict>
+<dict><key>city</key><string>口湖鄉</string></dict>
+<dict><key>city</key><string>水林鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>嘉義市</string>
+		<key>Cities</key>
+		<array>
+		<dict><key>city</key><string>東區</string></dict>
+<dict><key>city</key><string>西區</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>嘉義縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>太保市</string></dict>
+<dict><key>city</key><string>朴子市</string></dict>
+<dict><key>city</key><string>布袋鎮</string></dict>
+<dict><key>city</key><string>大林鎮</string></dict>
+<dict><key>city</key><string>民雄鄉</string></dict>
+<dict><key>city</key><string>溪口鄉</string></dict>
+<dict><key>city</key><string>新港鄉</string></dict>
+<dict><key>city</key><string>六腳鄉</string></dict>
+<dict><key>city</key><string>東石鄉</string></dict>
+<dict><key>city</key><string>義竹鄉</string></dict>
+<dict><key>city</key><string>鹿草鄉</string></dict>
+<dict><key>city</key><string>水上鄉</string></dict>
+<dict><key>city</key><string>中埔鄉</string></dict>
+<dict><key>city</key><string>竹崎鄉</string></dict>
+<dict><key>city</key><string>梅山鄉</string></dict>
+<dict><key>city</key><string>番路鄉</string></dict>
+<dict><key>city</key><string>大埔鄉</string></dict>
+<dict><key>city</key><string>阿里山鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>臺南市</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>新營區</string></dict>
+<dict><key>city</key><string>鹽水區</string></dict>
+<dict><key>city</key><string>白河區</string></dict>
+<dict><key>city</key><string>柳營區</string></dict>
+<dict><key>city</key><string>後壁區</string></dict>
+<dict><key>city</key><string>東山區</string></dict>
+<dict><key>city</key><string>麻豆區</string></dict>
+<dict><key>city</key><string>下營區</string></dict>
+<dict><key>city</key><string>六甲區</string></dict>
+<dict><key>city</key><string>官田區</string></dict>
+<dict><key>city</key><string>大內區</string></dict>
+<dict><key>city</key><string>佳里區</string></dict>
+<dict><key>city</key><string>學甲區</string></dict>
+<dict><key>city</key><string>西港區</string></dict>
+<dict><key>city</key><string>七股區</string></dict>
+<dict><key>city</key><string>將軍區</string></dict>
+<dict><key>city</key><string>北門區</string></dict>
+<dict><key>city</key><string>新化區</string></dict>
+<dict><key>city</key><string>善化區</string></dict>
+<dict><key>city</key><string>新市區</string></dict>
+<dict><key>city</key><string>安定區</string></dict>
+<dict><key>city</key><string>山上區</string></dict>
+<dict><key>city</key><string>玉井區</string></dict>
+<dict><key>city</key><string>楠西區</string></dict>
+<dict><key>city</key><string>南化區</string></dict>
+<dict><key>city</key><string>左鎮區</string></dict>
+<dict><key>city</key><string>仁德區</string></dict>
+<dict><key>city</key><string>歸仁區</string></dict>
+<dict><key>city</key><string>關廟區</string></dict>
+<dict><key>city</key><string>龍崎區</string></dict>
+<dict><key>city</key><string>永康區</string></dict>
+<dict><key>city</key><string>東區</string></dict>
+<dict><key>city</key><string>南區</string></dict>
+<dict><key>city</key><string>北區</string></dict>
+<dict><key>city</key><string>安南區</string></dict>
+<dict><key>city</key><string>安平區</string></dict>
+<dict><key>city</key><string>中西區</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>高雄市</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>鹽埕區</string></dict>
+<dict><key>city</key><string>鼓山區</string></dict>
+<dict><key>city</key><string>左營區</string></dict>
+<dict><key>city</key><string>楠梓區</string></dict>
+<dict><key>city</key><string>三民區</string></dict>
+<dict><key>city</key><string>新興區</string></dict>
+<dict><key>city</key><string>前金區</string></dict>
+<dict><key>city</key><string>苓雅區</string></dict>
+<dict><key>city</key><string>前鎮區</string></dict>
+<dict><key>city</key><string>旗津區</string></dict>
+<dict><key>city</key><string>小港區</string></dict>
+<dict><key>city</key><string>鳳山區</string></dict>
+<dict><key>city</key><string>林園區</string></dict>
+<dict><key>city</key><string>大寮區</string></dict>
+<dict><key>city</key><string>大樹區</string></dict>
+<dict><key>city</key><string>大社區</string></dict>
+<dict><key>city</key><string>仁武區</string></dict>
+<dict><key>city</key><string>鳥松區</string></dict>
+<dict><key>city</key><string>岡山區</string></dict>
+<dict><key>city</key><string>橋頭區</string></dict>
+<dict><key>city</key><string>燕巢區</string></dict>
+<dict><key>city</key><string>田寮區</string></dict>
+<dict><key>city</key><string>阿蓮區</string></dict>
+<dict><key>city</key><string>路竹區</string></dict>
+<dict><key>city</key><string>湖內區</string></dict>
+<dict><key>city</key><string>茄萣區</string></dict>
+<dict><key>city</key><string>永安區</string></dict>
+<dict><key>city</key><string>彌陀區</string></dict>
+<dict><key>city</key><string>梓官區</string></dict>
+<dict><key>city</key><string>旗山區</string></dict>
+<dict><key>city</key><string>美濃區</string></dict>
+<dict><key>city</key><string>六龜區</string></dict>
+<dict><key>city</key><string>甲仙區</string></dict>
+<dict><key>city</key><string>杉林區</string></dict>
+<dict><key>city</key><string>內門區</string></dict>
+<dict><key>city</key><string>茂林區</string></dict>
+<dict><key>city</key><string>桃源區</string></dict>
+<dict><key>city</key><string>那瑪夏區</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>屏東縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>屏東市</string></dict>
+<dict><key>city</key><string>潮州鎮</string></dict>
+<dict><key>city</key><string>東港鎮</string></dict>
+<dict><key>city</key><string>恆春鎮</string></dict>
+<dict><key>city</key><string>萬丹鄉</string></dict>
+<dict><key>city</key><string>長治鄉</string></dict>
+<dict><key>city</key><string>麟洛鄉</string></dict>
+<dict><key>city</key><string>九如鄉</string></dict>
+<dict><key>city</key><string>里港鄉</string></dict>
+<dict><key>city</key><string>鹽埔鄉</string></dict>
+<dict><key>city</key><string>高樹鄉</string></dict>
+<dict><key>city</key><string>萬巒鄉</string></dict>
+<dict><key>city</key><string>內埔鄉</string></dict>
+<dict><key>city</key><string>竹田鄉</string></dict>
+<dict><key>city</key><string>新埤鄉</string></dict>
+<dict><key>city</key><string>枋寮鄉</string></dict>
+<dict><key>city</key><string>新園鄉</string></dict>
+<dict><key>city</key><string>崁頂鄉</string></dict>
+<dict><key>city</key><string>林邊鄉</string></dict>
+<dict><key>city</key><string>南州鄉</string></dict>
+<dict><key>city</key><string>佳冬鄉</string></dict>
+<dict><key>city</key><string>琉球鄉</string></dict>
+<dict><key>city</key><string>車城鄉</string></dict>
+<dict><key>city</key><string>滿州鄉</string></dict>
+<dict><key>city</key><string>枋山鄉</string></dict>
+<dict><key>city</key><string>三地門鄉</string></dict>
+<dict><key>city</key><string>霧臺鄉</string></dict>
+<dict><key>city</key><string>瑪家鄉</string></dict>
+<dict><key>city</key><string>泰武鄉</string></dict>
+<dict><key>city</key><string>來義鄉</string></dict>
+<dict><key>city</key><string>春日鄉</string></dict>
+<dict><key>city</key><string>獅子鄉</string></dict>
+<dict><key>city</key><string>牡丹鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>澎湖縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>馬公市</string></dict>
+<dict><key>city</key><string>湖西鄉</string></dict>
+<dict><key>city</key><string>白沙鄉</string></dict>
+<dict><key>city</key><string>西嶼鄉</string></dict>
+<dict><key>city</key><string>望安鄉</string></dict>
+<dict><key>city</key><string>七美鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>花蓮縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>花蓮市</string></dict>
+<dict><key>city</key><string>鳳林鎮</string></dict>
+<dict><key>city</key><string>玉里鎮</string></dict>
+<dict><key>city</key><string>新城鄉</string></dict>
+<dict><key>city</key><string>吉安鄉</string></dict>
+<dict><key>city</key><string>壽豐鄉</string></dict>
+<dict><key>city</key><string>光復鄉</string></dict>
+<dict><key>city</key><string>豐濱鄉</string></dict>
+<dict><key>city</key><string>瑞穗鄉</string></dict>
+<dict><key>city</key><string>富里鄉</string></dict>
+<dict><key>city</key><string>秀林鄉</string></dict>
+<dict><key>city</key><string>萬榮鄉</string></dict>
+<dict><key>city</key><string>卓溪鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>臺東縣</string>
+		<key>Cities</key>
+		<array>
+		<dict><key>city</key><string>臺東市</string></dict>
+<dict><key>city</key><string>成功鎮</string></dict>
+<dict><key>city</key><string>關山鎮</string></dict>
+<dict><key>city</key><string>卑南鄉</string></dict>
+<dict><key>city</key><string>大武鄉</string></dict>
+<dict><key>city</key><string>太麻里鄉</string></dict>
+<dict><key>city</key><string>東河鄉</string></dict>
+<dict><key>city</key><string>長濱鄉</string></dict>
+<dict><key>city</key><string>鹿野鄉</string></dict>
+<dict><key>city</key><string>池上鄉</string></dict>
+<dict><key>city</key><string>綠島鄉</string></dict>
+<dict><key>city</key><string>延平鄉</string></dict>
+<dict><key>city</key><string>海端鄉</string></dict>
+<dict><key>city</key><string>達仁鄉</string></dict>
+<dict><key>city</key><string>金峰鄉</string></dict>
+<dict><key>city</key><string>蘭嶼鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>金門縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>哈尔滨市</string></dict>
+			<dict><key>city</key><string>齐齐哈尔市</string></dict>
+			<dict><key>city</key><string>鸡西市</string></dict>
+			<dict><key>city</key><string>鹤岗市</string></dict>
+            <dict><key>city</key><string>双鸭山市</string></dict>
+            <dict><key>city</key><string>大庆市</string></dict>
+            <dict><key>city</key><string>伊春市</string></dict>
+            <dict><key>city</key><string>佳木斯市</string></dict>
+			<dict><key>city</key><string>七台河市</string></dict>
+            <dict><key>city</key><string>牡丹江市</string></dict>
+            <dict><key>city</key><string>黑河市</string></dict>
+            <dict><key>city</key><string>绥化市</string></dict>
+            <dict><key>city</key><string>大兴安岭地区</string></dict>
+		</array>
+	</dict>
+
+    <dict>
+		<key>State</key>
+		<string>連江縣</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>南竿鄉</string></dict>
+<dict><key>city</key><string>北竿鄉</string></dict>
+<dict><key>city</key><string>莒光鄉</string></dict>
+<dict><key>city</key><string>東引鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>基隆市</string>
+		<key>Cities</key>
+		<array>
+			<dict><key>city</key><string>仁愛區</string></dict>
+			<dict><key>city</key><string>中正區</string></dict>
+			<dict><key>city</key><string>信義區</string></dict>
+			<dict><key>city</key><string>中山區</string></dict>
+			<dict><key>city</key><string>七堵區</string></dict>
+			<dict><key>city</key><string>暖暖區</string></dict>
+			<dict><key>city</key><string>安樂區</string></dict>
+			
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>宜蘭縣</string>
+		<key>Cities</key>
+		<array>
+		<dict><key>city</key><string>宜蘭市</string></dict>
+<dict><key>city</key><string>羅東鎮</string></dict>
+<dict><key>city</key><string>蘇澳鎮</string></dict>
+<dict><key>city</key><string>頭城鎮</string></dict>
+<dict><key>city</key><string>礁溪鄉</string></dict>
+<dict><key>city</key><string>壯圍鄉</string></dict>
+<dict><key>city</key><string>員山鄉</string></dict>
+<dict><key>city</key><string>冬山鄉</string></dict>
+<dict><key>city</key><string>五結鄉</string></dict>
+<dict><key>city</key><string>三星鄉</string></dict>
+<dict><key>city</key><string>大同鄉</string></dict>
+<dict><key>city</key><string>南澳鄉</string></dict>
+
+		</array>
+	</dict>
+    <dict>
+		<key>State</key>
+		<string>金門縣</string>
+		<key>Cities</key>
+		<array>
+<dict><key>city</key><string>金城鎮</string></dict>
+<dict><key>city</key><string>金湖鎮</string></dict>
+<dict><key>city</key><string>金沙鎮</string></dict>
+<dict><key>city</key><string>金寧鄉</string></dict>
+<dict><key>city</key><string>烈嶼鄉</string></dict>
+<dict><key>city</key><string>烏坵鄉</string></dict>
+
+
+		</array>
+	</dict>
+</array>
+</plist>
